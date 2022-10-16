@@ -1,0 +1,38 @@
+6.
+Po pierwszym uruchomieniu aplikacji
+2022-10-15 21:20:30.943 8552-8552/com.example.systemymobilnezad1 D/onStart: onStart has finished!!!
+Po wciśnięciu przycisku Cofnij
+2022-10-15 21:21:44.094 8552-8552/com.example.systemymobilnezad1 D/onPause: onPause has finished!!!
+2022-10-15 21:21:45.255 8552-8552/com.example.systemymobilnezad1 D/onStop: onStop has finished!!!
+Po ponownym uruchomieniu aplikacji
+2022-10-15 21:22:28.501 8784-8784/com.example.systemymobilnezad1 D/onStart: onStart has finished!!!
+2022-10-15 21:22:28.503 8784-8784/com.example.systemymobilnezad1 D/onResume: onResume has finished!!!
+Po wciśnięciu przycisku ekranu głównego Home
+2022-10-15 21:23:02.775 8784-8784/com.example.systemymobilnezad1 D/onPause: onPause has finished!!!
+2022-10-15 21:23:02.851 8784-8784/com.example.systemymobilnezad1 D/onStop: onStop has finished!!!
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+2022-10-15 21:23:19.351 8784-8784/com.example.systemymobilnezad1 D/onStart: onStart has finished!!!
+2022-10-15 21:23:19.353 8784-8784/com.example.systemymobilnezad1 D/onResume: onResume has finished!!!
+
+10.
+Co się stało po obróceniu ekranu? Które pytanie się wyświetla? Dodaj do pliku z zapisanymi
+logami również te, które zostały wypisane po zmianie orientacji urządzenia.
+2022-10-15 22:12:40.818 6078-6078/com.example.systemymobilnezad1 D/onPause: onPause has finished!!!
+2022-10-15 22:12:40.828 6078-6078/com.example.systemymobilnezad1 D/onStop: onStop has finished!!!
+2022-10-15 22:12:40.832 6078-6078/com.example.systemymobilnezad1 D/onDestroy: onDestroy has finished!!!
+2022-10-15 22:12:40.951 6078-6078/com.example.systemymobilnezad1 D/onStart: onStart has finished!!!
+2022-10-15 22:12:40.953 6078-6078/com.example.systemymobilnezad1 D/onResume: onResume has finished!!!
+
+13.
+Zrestartuj aplikację i powtórz kroki z punktu 9 – które pytanie wyświetli się tym razem? Dodaj
+odpowiedź do pliku tekstowego z logami cyklu życia aplikacji.
+2022-10-15 22:19:09.870 7811-7811/com.example.systemymobilnezad1 D/onPause: onPause has finished!!!
+2022-10-15 22:19:09.875 7811-7811/com.example.systemymobilnezad1 D/onStop: onStop has finished!!!
+2022-10-15 22:19:09.878 7811-7811/com.example.systemymobilnezad1 D/: Wywołana została metoda: onSaveInstanceState
+2022-10-15 22:19:09.879 7811-7811/com.example.systemymobilnezad1 D/onDestroy: onDestroy has finished!!!
+2022-10-15 22:19:09.947 7811-7811/com.example.systemymobilnezad1 D/: Wywołana została metoda cyklu życia: onCreate
+2022-10-15 22:19:10.077 7811-7811/com.example.systemymobilnezad1 D/onStart: onStart has finished!!!
+2022-10-15 22:19:10.079 7811-7811/com.example.systemymobilnezad1 D/onResume: onResume has finished!!!
+
+
+
